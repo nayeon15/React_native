@@ -2,7 +2,7 @@
 
 *JavaScript: 주기적으로 내용이 갱신되는 기능이나 능동적인 지도... 등등 웹페이지에 적용할 수 있게 하는 스크립트 혹은 프로그래밍 언어*
 
-> 아니 그래서 핵심적인 역할이 뭐야~?
+> 아니 그래서 핵심적인 역할이 뭐야?
 
 ```javascript
 const para = document.querySelector('p');
