@@ -5946,10 +5946,10 @@
     "range-parser" "~1.2.1"
     "statuses" "~1.5.0"
 
-"sendbird@^3.0.153":
-  "integrity" "sha512-TsCIpAs4R8x0inRSVjXbRhkw7Fj208KbmBxLL81xyg8wCmvajIl30TaqGVetA5QzKFp0CO2cBuuPsmVdTNKNSg=="
-  "resolved" "https://registry.npmjs.org/sendbird/-/sendbird-3.0.153.tgz"
-  "version" "3.0.153"
+"sendbird@^3.0.154":
+  "integrity" "sha512-EFZQcnkvEGRowqzRc3zMAP2iYdpMdE1DSJVcAsl7QPPMS98TclDEF3BJua46OWw5BI3uV/m+RbDainMSBtO8Ag=="
+  "resolved" "https://registry.npmjs.org/sendbird/-/sendbird-3.0.154.tgz"
+  "version" "3.0.154"
   dependencies:
     "agentkeepalive" "2.2.0"
     "axios" "^0.21.1"
