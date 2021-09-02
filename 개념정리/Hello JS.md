@@ -47,3 +47,4 @@ function updateName() {
 > 만약 1번째 줄과 3번째 줄을 바꿨다면 실행되지 않을 것임. 대신 콘솔창에 ```TypeError: para is undefined```이라는 오류가 뜰 것임. 이는 para라는 객체가 아직 존재하지 않는다는 뜻. 
 
 
+
