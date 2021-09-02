@@ -8,7 +8,6 @@ let profile = {
     },
     [SOME_KEY]:'value',
 }
-
 console.log(profile.age);
 profile.sayHi;
 
